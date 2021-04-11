@@ -19,7 +19,9 @@ There is a whycon marker which is mounted on top of the drone, with the help of 
 
 *Multi-point navigation*
 -Open a terminal write command -**roscore**
+
 -Open a different terminal window ender -**roslaunch survey_and_rescue launch_gazebo_and_whycon.launch**
+
 -Open a different terminal window ender -**rosrun survey_and_rescue position_hold_gazebo.py**
 
 
